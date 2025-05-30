@@ -1,27 +1,23 @@
 # Projects
-- Lista y máximo detalle posible de projectos hechos y por realizar
-  
+- List and maximum possible detail of completed and pending projects
 
 ## 1.- Own Package
-- Librería (package) totalmente propio con módulos con utilidades interesantes para JM
-- jm_utils con montón de módulos
+- Fully proprietary library (package) with modules containing interesting utilities for JM
+- jm_utils with tons of modules
 
 ### 1.1- Own Package - passmgrcore
-- Núcleo para administrador de credenciales encriptadas con pandas
+- Core for managing encrypted credentials with pandas
 - imports jm.passmgrcore as pmc
-  
 
 ## 2.- Inspect DB - TO-DO
-- Básicamente inspeccionar DBs deconocidas
-- De esto no hay NADA, de modo que lo propuesto se va a ir reestructurando
-known DB, Known Table, Search Field ... etc.. etc...
-  
-### 2.1- Inspect DB - known Table
-- Inspeccionar la estructura (esquema) de una tabla para conocer qué campos tiene y de qué
+- Basically, inspect unknown DBs
+- There's NOTHING to it, so the proposed approach will be restructured: known DB, known table, search field, etc.
+
+### 2.1- Inspect DB - known table
+- Inspect the structure (schema) of a table to find out what fields it has and what they represent.
 
 ### 2.2 Inspect DB - Search Field
-- Buscar un campo conociendo únicamente el nombre del campo en una DB totalmente desconocida
-
+- Search for a field knowing only the field name in a completely unknown DB.
 
 ## 3.- Queries to CSV
 
