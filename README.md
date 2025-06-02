@@ -1,4 +1,4 @@
-# Projects
+# Ideas
 - List and maximum possible detail of completed and pending projects
 
 ## 1.- Own Package
@@ -36,3 +36,9 @@ https://pytutorial.com/creating-python-modules-and-packages-guide/
 ## 3.- Queries to CSV
 
 ## 4.- Passwer Manager with pandas
+- Use jm_passmgrcore module
+
+## 5.- Programita que cambie los nombres de archivos con sufijo y/prefijo de todos los archivos de una carpeta
+- podría también ser que archivos que empiecen con... no todos sino con algún filtro..
+- surgió de renombrar los de fgrrica ovn sfiix _xls.CSV
+- y que contemple elegir todo el árbol pá abajo (recursivo) o NO !?
