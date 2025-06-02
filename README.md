@@ -4,11 +4,13 @@
 ## 1.- Own Package
 - Fully proprietary library (package) with modules containing interesting utilities for JM
 - jm_utils with tons of modules
+- More detail in particular subdir
 
 ### 1.1- Own Package - passmgrcore
 - Core for managing encrypted credentials with pandas
 - imports jm.passmgrcore as pmc
 
+### 1.2.- List
 jm_datetime: casos como calc ultimo día del mes, ultimo día del mes del año anterior, años bicistos, cantidad de días de un dado año... etc.
 jm_pdaccessor.py: comp_df, filter_row, etc... (pd - methods extension)
 jm_baseutils: 
